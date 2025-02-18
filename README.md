@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-kumar-rao&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-kumar-rao" /> </p>
 
-- 🔭 currently I’m working on **Myntra Full Stack Clone**
+- 🔭 currently I’m working on **Ai Based L-M-S**
 
 - 🌱  currently I’m  learning **React With firebase**
 
