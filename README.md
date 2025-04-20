@@ -1,6 +1,8 @@
 ![logo](https://github.com/ASHUTOSH-KUMAR-RAO/ASHUTOSH-KUMAR-RAO/blob/main/White%20Beige%20Simple%20Photo%20Entrepreneur%20Personal%20LinkedIn%20Banner.png?raw=true)
-<h1 align="center">! Hello World 👋, I'm Ashutosh Kumar Rao</h1>
-<h3 align="center">A passionate full-stack web developer from India</h3>
+
+<h1 align="center">👋 Hello World, I'm Ashutosh Kumar Rao</h1>
+<h3 align="center">🚀 A passionate full-stack web developer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yN2VhZ3VjY3R5dWl5Y2J6ZzB6eGJtY3B1dGZ1ZGx1eGx6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-kumar-rao&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-kumar-rao" /> </p>
@@ -18,10 +20,10 @@
   <a href="https://dev.to/dev.to @ashutosh_rao_" target="blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to @ashutosh_rao_" height="30"/>
   </a>
-  <a href="https://twitter.com/@innocentas70797" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@innocentas70797" height="30"/>
+  <a href="https://x.com/RaoAshutosh19" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@RaoAshutosh19" height="30"/>
   </a>
-  <a href="https://linkedin.com/in/ashutosh kumar rao" target="blank">
+  <a href="https://www.linkedin.com/in/ashutosh-kumar-rao/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashutosh kumar rao" height="30"/>
   </a>
   <a href="https://instagram.com/ashutosh_rao" target="blank">
@@ -30,14 +32,14 @@
   <a href="https://www.youtube.com/c/@theonly_ashu" target="blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@theonly_ashu" height="30"/>
   </a>
-  <a href="https://www.leetcode.com/rajput_ashu2003" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="rajput_ashu2003" height="30"/>
+  <a href="https://www.leetcode.com/RAJPUT_ashu2003" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="RAJPUT_ashu2003" height="30"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ **Tech Stack**
+### 🧰 **Tech Stack**
 
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -93,6 +95,7 @@
 2. **Portfolio Website**  
    - *Built with Next.js + Tailwind CSS*  
    - [Visit Site](#)  
+
 ---
 
 ### 📬 **Let's Collaborate!**  
