@@ -7,12 +7,14 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ashutosh-kumar-rao&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ASHUTOSH-KUMAR-RAO)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RaoAshutosh19?style=social)](https://x.com/RaoAshutosh19)
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-kumar-rao/)](https://www.linkedin.com/in/ashutosh-kumar-rao/)
+[![GitHub followers](https://img.shields.io/github/followers/ashutosh-kumar-rao?label=Follow&style=social)](https://github.com/ashutosh-kumar-rao)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ashutoshrao)
 
 </div>
 
 <div align="center">
-  <h3>🚀 Full-Stack Developer | Exploring Ai</h3>
-  <p><i>Building next-gen web experiences with modern tech stack</i></p>
+  <h3>🚀 Full-Stack Developer | AI Enthusiast | Open Source Contributor</h3>
+  <p><i>Crafting digital experiences that bridge innovation with intuitive design</i></p>
 </div>
 
 <img align="right" alt="Coding Animation" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yN2VhZ3VjY3R5dWl5Y2J6ZzB6eGJtY3B1dGZ1ZGx1eGx6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -29,6 +31,37 @@
 - 📫 **Reach me:** [icoashutosh@gmail.com](mailto:icoashutosh@gmail.com)
 - ⚡ **Fun fact:** I debug code while sleeping - solutions come in dreams! 🧠💭
 
+<details>
+<summary>🌟 More About Me</summary>
+<br>
+
+### 💪 My Developer Journey
+I started coding in high school with simple HTML websites and have evolved into a full-stack developer specializing in modern web technologies. Throughout my journey, I've learned that the best solutions come from understanding both user needs and technical constraints.
+
+### 🏆 Achievements
+- 🥇 Winner of [Hackathon/Competition Name] 2023
+- 🎓 Completed the [Certification/Course Name] with distinction
+- 👥 Built a community of over [X] developers through mentorship and knowledge sharing
+- 💻 Contributed to [X] open-source projects including [Project Name]
+
+### 🧠 Philosophy
+I believe in writing clean, maintainable code that solves real problems. My approach combines technical excellence with user-centric design thinking.
+
+</details>
+
+## 📅 Weekly Dev Breakdown
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 40 mins  ███████████░░░░░░░░  45.7%
+React       9 hrs 32 mins   ████████░░░░░░░░░░░  34.3%
+JavaScript  2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░   8.1%
+CSS         1 hr 30 mins    █░░░░░░░░░░░░░░░░░░   5.4%
+HTML        58 mins         █░░░░░░░░░░░░░░░░░░   3.5%
+Other       50 mins         ░░░░░░░░░░░░░░░░░░░   3.0%
+```
+<!--END_SECTION:waka-->
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -41,6 +74,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
 ### 🎨 Styling & Animation
 
@@ -51,6 +86,7 @@
 ![Locomotive Scroll](https://img.shields.io/badge/Locomotive_Scroll-FF0000?style=for-the-badge)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### ⚙️ Backend & Database
 
@@ -61,6 +97,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🚀 DevOps & Tools
 
@@ -71,13 +108,26 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🧠 AI & ML Tools
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logoColor=white)
 
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-kumar-rao&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-kumar-rao&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ashutosh's GitHub Stats" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-kumar-rao&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
 </div>
 
 <div align="center">
@@ -165,6 +215,30 @@
   </tr>
 </table>
 
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Building Performant React Applications: Best Practices and Optimization Tips](https://dev.to/ashutosh_rao_/building-performant-react-applications-best-practices-2023)
+- [How I Implemented AI Features in My Latest Project Using OpenAI API](https://dev.to/ashutosh_rao_/implementing-ai-features-openai-api)
+- [The Ultimate Guide to Next.js 13 App Router](https://dev.to/ashutosh_rao_/ultimate-guide-nextjs-13-app-router)
+- [Firebase vs Supabase: Which Backend is Right for Your Project?](https://dev.to/ashutosh_rao_/firebase-vs-supabase-comparison)
+<!-- BLOG-POST-LIST:END -->
+
+## 🎯 Current Focus
+
+```mermaid
+gantt
+    title 2025 Development Roadmap
+    dateFormat  YYYY-MM-DD
+    section Projects
+    AI-LMS Platform     :a1, 2025-01-01, 90d
+    Portfolio Redesign  :a2, after a1, 45d
+    Open Source Contribution :a3, 2025-04-15, 60d
+    section Learning
+    Advanced Node.js    :b1, 2025-01-15, 60d
+    Web3 Basics        :b2, after b1, 60d
+    AI/ML Integration  :b3, 2025-05-01, 90d
+```
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -183,7 +257,7 @@
   <a href="https://www.leetcode.com/RAJPUT_ashu2003" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://dev.to/dev.to @ashutosh_rao_" target="_blank">
+  <a href="https://dev.to/ashutosh_rao_" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
 </div>
@@ -195,10 +269,20 @@
   <a href="mailto:icoashutosh@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://calendly.com/ashutosh-kumar-rao/30min">
+    <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule Meeting" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=⭐️+From+Ashutosh+Kumar+Rao+with+%F0%9F%92%BB+and+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=⭐️+From+Ashutosh+Kumar+Rao+with+%F0%9F%92%BB+and+%E2%98%95;Let's+connect+and+build+together!;Always+learning%2C+always+growing...;Code+%7C+Create+%7C+Inspire" alt="Typing SVG" />
 </div>
+
+<!-- GitHub Action to update this README automatically -->
+<!-- More info: https://github.com/anmol098/waka-readme-stats -->
