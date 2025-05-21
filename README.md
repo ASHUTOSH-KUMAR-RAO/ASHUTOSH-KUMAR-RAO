@@ -38,12 +38,6 @@
 ### 💪 My Developer Journey
 I started coding in high school with simple HTML websites and have evolved into a full-stack developer specializing in modern web technologies. Throughout my journey, I've learned that the best solutions come from understanding both user needs and technical constraints.
 
-### 🏆 Achievements
-- 🥇 Winner of [Hackathon/Competition Name] 2023
-- 🎓 Completed the [Certification/Course Name] with distinction
-- 👥 Built a community of over [X] developers through mentorship and knowledge sharing
-- 💻 Contributed to [X] open-source projects including [Project Name]
-
 ### 🧠 Philosophy
 I believe in writing clean, maintainable code that solves real problems. My approach combines technical excellence with user-centric design thinking.
 
