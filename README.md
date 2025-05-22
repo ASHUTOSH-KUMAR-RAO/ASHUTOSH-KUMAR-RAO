@@ -440,59 +440,6 @@ Comprehensive walkthrough of Next.js 13's new App Router, server components, and
   </a>
 </div>
 
----
-
-## 🎯 2025 Development Roadmap
-
-<div align="center">
-
-### 🗓️ **My Goals This Year**
-
-<table>
-<tr>
-<td width="25%" align="center">
-<h4>🚀 Q1 2025</h4>
-<ul align="left">
-<li>Complete AI-LMS Platform</li>
-<li>Master Advanced React</li>
-<li>Launch Portfolio V3</li>
-<li>Write 10 tech articles</li>
-</ul>
-</td>
-<td width="25%" align="center">
-<h4>🔥 Q2 2025</h4>
-<ul align="left">
-<li>Learn Web3 Development</li>
-<li>Build DeFi Application</li>
-<li>Contribute to 20 OSS projects</li>
-<li>Speaking at 2 conferences</li>
-</ul>
-</td>
-<td width="25%" align="center">
-<h4>⚡ Q3 2025</h4>
-<ul align="left">
-<li>Master System Design</li>
-<li>Build Microservices App</li>
-<li>Freelance 5 projects</li>
-<li>Mentor 10 developers</li>
-</ul>
-</td>
-<td width="25%" align="center">
-<h4>🌟 Q4 2025</h4>
-<ul align="left">
-<li>Launch SaaS Product</li>
-<li>Achieve 10K GitHub stars</li>
-<li>Complete AWS Certification</li>
-<li>Start Tech YouTube Channel</li>
-</ul>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🎵 Currently Listening To
 
 <div align="center">
