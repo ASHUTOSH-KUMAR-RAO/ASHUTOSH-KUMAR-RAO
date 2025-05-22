@@ -173,10 +173,6 @@ Other        ▓░░░░░░░░░░░░░░░░░░░░    
         <br>Prisma
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="GraphQL" />
         <br>GraphQL
       </td>
