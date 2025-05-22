@@ -196,10 +196,6 @@ Other        ▓░░░░░░░░░░░░░░░░░░░░    
 <br>Docker
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br>AWS
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
 <br>Vercel
 </td>
@@ -221,45 +217,6 @@ Other        ▓░░░░░░░░░░░░░░░░░░░░    
 </td>
 </tr>
 </table>
-
-### 🧠 AI & Animation Magic
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-<br>TensorFlow
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
-<br>Three.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="SASS" />
-<br>SASS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-<br>Bootstrap
-</td>
-<td align="center" width="96">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Framer-Dark.svg" width="48" height="48" alt="Framer" />
-<br>Framer
-</td>
-<td align="center" width="96">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GSAP-Dark.svg" width="48" height="48" alt="GSAP" />
-<br>GSAP
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="48" height="48" alt="AI" />
-<br>OpenAI
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/000000/machine-learning.png" width="48" height="48" alt="ML" />
-<br>LangChain
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
@@ -283,16 +240,38 @@ Other        ▓░░░░░░░░░░░░░░░░░░░░    
 
 <div align="center">
   
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ashutosh-kumar-rao&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" alt="GitHub Trophies" />
+  <!-- Fixed GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ashutosh-kumar-rao&theme=onestar&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
   
 </div>
 
 <div align="center">
   
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-kumar-rao&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" width="100%" alt="Contribution Graph" />
+  <!-- Updated Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-kumar-rao&custom_title=Ashutosh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
   
+</div>
+
+---
+
+## 🏆 GitHub Achievement Showcase
+
+<div align="center">
+
+### 🎯 **Profile Highlights**
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutosh-kumar-rao&theme=tokyonight" alt="Profile Summary" width="100%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashutosh-kumar-rao&theme=tokyonight" alt="Repos per Language" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashutosh-kumar-rao&theme=tokyonight" alt="Most Commit Language" width="49%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashutosh-kumar-rao&theme=tokyonight" alt="Stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashutosh-kumar-rao&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="49%" />
+
 </div>
 
 ---
@@ -310,7 +289,7 @@ Other        ▓░░░░░░░░░░░░░░░░░░░░    
     <td width="50%" valign="top">
       <div align="center">
         <h3>🧠 AI-Powered LMS Platform</h3>
-        <img src="https://via.placeholder.com/400x250/0D1117/5BCDEC?text=AI+Learning+Management+System" width="100%" alt="AI LMS Preview"/>
+        <img src="/api/placeholder/400/250" alt="AI LMS Preview" width="100%"/>
         <br><br>
         <p>
           <a href="#" target="_blank">
@@ -334,7 +313,7 @@ Other        ▓░░░░░░░░░░░░░░░░░░░░    
     <td width="50%" valign="top">
       <div align="center">
         <h3>🌐 Interactive Developer Portfolio</h3>
-        <img src="https://via.placeholder.com/400x250/0D1117/00D9FF?text=Interactive+Portfolio+3D" width="100%" alt="Portfolio Preview"/>
+        <img src="/api/placeholder/400/250" alt="Portfolio Preview" width="100%"/>
         <br><br>
         <p>
           <a href="https://ashutosh-devportfolio.netlify.app/" target="_blank">
@@ -360,7 +339,7 @@ Other        ▓░░░░░░░░░░░░░░░░░░░░    
     <td width="50%" valign="top">
       <div align="center">
         <h3>📱 Social Media Analytics Dashboard</h3>
-        <img src="https://via.placeholder.com/400x250/0D1117/FF6B6B?text=Social+Analytics+Dashboard" width="100%" alt="Social Dashboard Preview"/>
+        <img src="/api/placeholder/400/250" alt="Social Dashboard Preview" width="100%"/>
         <br><br>
         <p>
           <a href="#" target="_blank">
@@ -384,7 +363,7 @@ Other        ▓░░░░░░░░░░░░░░░░░░░░    
     <td width="50%" valign="top">
       <div align="center">
         <h3>🛒 NextGen E-Commerce Platform</h3>
-        <img src="https://via.placeholder.com/400x250/0D1117/4ECDC4?text=E-Commerce+Platform" width="100%" alt="E-Commerce Preview"/>
+        <img src="/api/placeholder/400/250" alt="E-Commerce Preview" width="100%"/>
         <br><br>
         <p>
           <a href="#" target="_blank">
@@ -467,31 +446,68 @@ Comprehensive walkthrough of Next.js 13's new App Router, server components, and
 
 <div align="center">
 
-```mermaid
-gantt
-    title 🚀 2025 Development Journey
-    dateFormat  YYYY-MM-DD
-    section 🚧 Major Projects
-    AI-LMS Platform         :crit, active, a1, 2025-01-01, 90d
-    Portfolio V3 Redesign   :a2, after a1, 45d
-    Open Source Sprint      :a3, 2025-04-15, 60d
-    Web3 DApp               :a4, 2025-06-01, 75d
-    
-    section 📚 Learning Goals
-    Advanced Node.js        :b1, 2025-01-15, 60d
-    Web3 & Blockchain       :b2, after b1, 60d
-    AI/ML Deep Dive         :b3, 2025-05-01, 90d
-    System Design           :b4, 2025-07-01, 60d
-    
-    section 🎯 Milestones
-    Tech Talks & Workshops  :milestone, m1, 2025-03-15, 0d
-    Conference Speaker      :milestone, m2, 2025-06-30, 0d
-    Open Source Maintainer :milestone, m3, 2025-09-15, 0d
-```
+### 🗓️ **My Goals This Year**
+
+<table>
+<tr>
+<td width="25%" align="center">
+<h4>🚀 Q1 2025</h4>
+<ul align="left">
+<li>Complete AI-LMS Platform</li>
+<li>Master Advanced React</li>
+<li>Launch Portfolio V3</li>
+<li>Write 10 tech articles</li>
+</ul>
+</td>
+<td width="25%" align="center">
+<h4>🔥 Q2 2025</h4>
+<ul align="left">
+<li>Learn Web3 Development</li>
+<li>Build DeFi Application</li>
+<li>Contribute to 20 OSS projects</li>
+<li>Speaking at 2 conferences</li>
+</ul>
+</td>
+<td width="25%" align="center">
+<h4>⚡ Q3 2025</h4>
+<ul align="left">
+<li>Master System Design</li>
+<li>Build Microservices App</li>
+<li>Freelance 5 projects</li>
+<li>Mentor 10 developers</li>
+</ul>
+</td>
+<td width="25%" align="center">
+<h4>🌟 Q4 2025</h4>
+<ul align="left">
+<li>Launch SaaS Product</li>
+<li>Achieve 10K GitHub stars</li>
+<li>Complete AWS Certification</li>
+<li>Start Tech YouTube Channel</li>
+</ul>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
+
+## 🎵 Currently Listening To
+
+<div align="center">
+
+### 🎧 **My Coding Soundtrack**
+
+<!-- Fixed Spotify Widget -->
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6eoqbxgbzubfij2p7s6j5k7cu&count=1&width=500" alt="Spotify Recently Played" />
+
+*Music fuels my coding sessions! 🎶*
+
+### 🎮 **Fun Dev Facts**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+
+</div>
 
 ---
 
@@ -548,7 +564,7 @@ gantt
 <a href="mailto:icoashutosh@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="#">
+<a href="https://calendly.com/ashutoshrao">
   <img src="https://img.shields.io/badge/📅_Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule Meeting" />
 </a>
 <a href="https://www.buymeacoffee.com/ashutoshrao">
@@ -560,29 +576,6 @@ gantt
 - 🤝 **Collaborations** - Open source contributions
 - 🎤 **Speaking** - Tech talks and workshops
 - 📚 **Mentoring** - Helping fellow developers grow
-
-</div>
-
----
-
-## 🎮 Fun Interactive Section
-
-<div align="center">
-
-### 🎲 **Random Dev Fact Generator**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
-
-### 🎵 **Currently Vibing To**
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=ashutoshrao&unique=true&count=1" alt="Spotify" />
-
-### 🌟 **GitHub Metrics Dashboard**
-<details>
-<summary>📊 Click to expand detailed metrics</summary>
-<br>
-
-<img src="https://metrics.lecoq.io/ashutosh-kumar-rao?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&community=false&community.load=400&community.discussions=false&community.discussions.categories=false&followup=false&introduction=false&introduction.title=true&sponsors=false&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2Cpinned%2Cstarred%2Crandom&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.detailed=false&starlists.size=false&starlists.shuffle=true&calendar=false&calendar.limit=1&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&tweets=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FKolkata" alt="Detailed Metrics" />
-
-</details>
 
 </div>
 
@@ -630,19 +623,17 @@ const developerMindset = {
 - **📐 Design Patterns:** SOLID principles, DRY, KISS
 - **🔄 Agile Methodology:** Scrum, continuous integration  
 - **🧪 Testing First:** Unit tests, integration tests, E2E
-- **📊 Performance:** Core Web Vitals, lighthouse optimization
-- **♿ Accessibility:** WCAG 2.1 AA compliance
-- **🔒 Security:** OWASP guidelines, secure coding practices
-
-### 🌱 **Growth Mindset**
-```bash
+- **📊 Performance:** Core Web Vitals,
+</td>
+### 🌱 *Growth Mindset*
+bash
 while (coding) {
   learn();
   build();
   share();
   improve();
 }
-```
+
 
 </td>
 </tr>
@@ -650,15 +641,15 @@ while (coding) {
 
 ---
 
-### 🔥 **Contribution Heat Map**
+### 🔥 *Contribution Heat Map*
 <img src="https://ghchart.rshah.org/00D9FF/ashutosh-kumar-rao" alt="Contribution Chart" width="100%" />
 
-### 📅 **This Month's Highlights**
-- 🚀 **15 commits** across 8 repositories
-- 🌟 **3 new features** shipped to production  
-- 🐛 **12 issues** resolved and closed
-- 📝 **2 technical articles** published
-- 🤝 **5 pull requests** merged in open source projects
+### 📅 *This Month's Highlights*
+- 🚀 *15 commits* across 8 repositories
+- 🌟 *3 new features* shipped to production  
+- 🐛 *12 issues* resolved and closed
+- 📝 *2 technical articles* published
+- 🤝 *5 pull requests* merged in open source projects
 
 </div>
 
@@ -668,19 +659,17 @@ while (coding) {
 
 <div align="center">
 
-### 🤝 **Ready to Build Something Amazing Together?**
+### 🤝 *Ready to Build Something Amazing Together?*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+turn+your+ideas+into+reality!;Collaboration+makes+everything+better;Your+next+project+starts+here;Ready+when+you+are!" alt="Call to Action" />
 
 <br><br>
 
-**Whether you're looking for:**
+*Whether you're looking for:*
 - 💼 A skilled developer for your next project
-- 🤝 A collaborator for open source contribution  
-- 🎤 A speaker for your tech event
 - 📚 A mentor to guide your coding journey
 
-**I'm just one message away!**
+*I'm just one message away!*
 
 <br>
 
@@ -697,17 +686,17 @@ while (coding) {
 <!-- Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
-### 🌟 **Thanks for visiting my profile!** 🌟
+### 🌟 *Thanks for visiting my profile!* 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=⭐️+From+Ashutosh+Kumar+Rao+with+💻+and+☕;Let's+connect+and+build+together!;Always+learning%2C+always+growing...;Code+%7C+Create+%7C+Inspire+%7C+Repeat" alt="Footer Typing SVG" />
-
-<br>
-
-**🔥 Pro Tip:** Star this repository if you found it helpful, and feel free to fork it for your own profile!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=⭐+From+Ashutosh+Kumar+Rao+with+💻+and+☕;Let's+connect+and+build+together!;Always+learning%2C+always+growing...;Code+%7C+Create+%7C+Inspire+%7C+Repeat" alt="Footer Typing SVG" />
 
 <br>
 
-**Last Updated:** ![Last Updated](https://img.shields.io/github/last-commit/ashutosh-kumar-rao/ashutosh-kumar-rao?style=flat&color=00D9FF&label=Profile%20Updated)
+*🔥 Pro Tip:* Star this repository if you found it helpful, and feel free to fork it for your own profile!
+
+<br>
+
+*Last Updated:* ![Last Updated](https://img.shields.io/github/last-commit/ashutosh-kumar-rao/ashutosh-kumar-rao?style=flat&color=00D9FF&label=Profile%20Updated)
 
 </div>
 
