@@ -278,119 +278,6 @@ Other        ▓░░░░░░░░░░░░░░░░░░░░    
 
 ---
 
-## 🌟 Featured Projects Showcase
-
-<div align="center">
-
-### 🚀 **Featured Applications**
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🧠 AI-Powered LMS Platform</h3>
-        <img src="/api/placeholder/400/250" alt="AI LMS Preview" width="100%"/>
-        <br><br>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/-🚀_Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/-📂_Source_Code-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-          </a>
-        </p>
-        <div align="left">
-          <p><strong>🛠️ Tech Stack:</strong></p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-          <br><br>
-          <p>🎯 <strong>Features:</strong> AI-powered course recommendations, adaptive learning paths, real-time analytics, interactive assignments, and personalized study plans.</p>
-        </div>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🌐 Interactive Developer Portfolio</h3>
-        <img src="/api/placeholder/400/250" alt="Portfolio Preview" width="100%"/>
-        <br><br>
-        <p>
-          <a href="https://ashutosh-devportfolio.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/-🌟_Live_Site-00D9FF?style=for-the-badge&logo=netlify&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/-📂_Source_Code-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-          </a>
-        </p>
-        <div align="left">
-          <p><strong>🛠️ Tech Stack:</strong></p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-          <br><br>
-          <p>🎯 <strong>Features:</strong> 3D animations, smooth transitions, interactive elements, dark/light mode, mobile responsive, and optimized performance.</p>
-        </div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>📱 Social Media Analytics Dashboard</h3>
-        <img src="/api/placeholder/400/250" alt="Social Dashboard Preview" width="100%"/>
-        <br><br>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/-📊_Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/-📂_Source_Code-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-          </a>
-        </p>
-        <div align="left">
-          <p><strong>🛠️ Tech Stack:</strong></p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-          <br><br>
-          <p>🎯 <strong>Features:</strong> Real-time data visualization, multi-platform analytics, automated reporting, custom KPI tracking, and team collaboration tools.</p>
-        </div>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🛒 NextGen E-Commerce Platform</h3>
-        <img src="/api/placeholder/400/250" alt="E-Commerce Preview" width="100%"/>
-        <br><br>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/-🛍️_Live_Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/-📂_Source_Code-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-          </a>
-        </p>
-        <div align="left">
-          <p><strong>🛠️ Tech Stack:</strong></p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
-          <br><br>
-          <p>🎯 <strong>Features:</strong> Secure payments, inventory management, order tracking, customer reviews, admin dashboard, and mobile-first design.</p>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📚 Latest Blog Posts & Articles
 
 <div align="center">
@@ -442,19 +329,94 @@ Comprehensive walkthrough of Next.js 13's new App Router, server components, and
   </a>
 </div>
 
-## 🎵 Currently Listening To
+## 🎵 My Coding Vibe Zone
 
 <div align="center">
 
-### 🎧 **My Coding Soundtrack**
+### 🎧 **Currently Vibing To**
 
-<!-- Fixed Spotify Widget -->
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6eoqbxgbzubfij2p7s6j5k7cu&count=1&width=500" alt="Spotify Recently Played" />
+<!-- Better Spotify Widget with fallback -->
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k6eoqbxgbzubfij2p7s6j5k7cu&cover_image=true&theme=novatora&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=false" alt="Spotify Now Playing" width="400" />
 
-*Music fuels my coding sessions! 🎶*
+<br>
 
-### 🎮 **Fun Dev Facts**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+<!-- Music Genre Badges -->
+<img src="https://img.shields.io/badge/🎵_Lo--Fi-FF6B6B?style=for-the-badge&logo=spotify&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎼_Electronic-4ECDC4?style=for-the-badge&logo=spotify&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎹_Synthwave-45B7D1?style=for-the-badge&logo=spotify&logoColor=white"/>
+
+<br><br>
+
+*"Good code is like good music - it has rhythm, structure, and tells a story" 🎶*
+
+</div>
+
+---
+
+## 🎮 Developer Fuel & Fun Facts
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ☕ **My Coding Arsenal**
+<img src="https://img.shields.io/badge/☕_Coffee-4-8B4513?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌙_Late_Night-Coding-191970?style=for-the-badge&logo=moon&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎵_Music-Always_On-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+
+**⚡ Productivity Stats:**
+- ☕ **Coffee consumed today:** 4 cups
+- 🍕 **Pizza slices this week:** 8
+- 🐛 **Bugs fixed:** ∞ (and counting...)
+- 😴 **Sleep:** What's that?
+
+</td>
+<td width="50%" align="center">
+
+### 🎯 **Daily Dev Quote**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" width="100%" />
+
+<br>
+
+### 🎲 **Random Dev Facts**
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+
+</td>
+</tr>
+</table>
+
+### 🎪 **Fun Developer Stats**
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🤔_Rubber_Duck-Debugging_Expert-FFD700?style=for-the-badge"/>
+<br><strong>Problems Solved</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📚_Stack_Overflow-Daily_Visitor-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+<br><strong>Knowledge Source</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/💡_Eureka_Moments-3AM_Specialist-9146FF?style=for-the-badge"/>
+<br><strong>Best Ideas Time</strong>
+</td>
+</tr>
+</table>
+
+### 🎨 **Current Mood Tracker**
+
+<div align="center">
+<img src="https://img.shields.io/badge/😎_Mood-Coding_Beast_Mode-00D9FF?style=for-the-badge&logo=atom&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_Status-Building_The_Future-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚡_Energy-Caffeinated-8B4513?style=for-the-badge&logo=lightning&logoColor=white"/>
+</div>
+
+<br>
+
+*"First I drink the coffee, then I do the things!"* ☕→💻→🚀
 
 </div>
 
@@ -523,7 +485,6 @@ Comprehensive walkthrough of Next.js 13's new App Router, server components, and
 ### 🎯 **Open For:**
 - 🚀 **Freelance Projects** - Full-stack web applications
 - 🤝 **Collaborations** - Open source contributions
-- 🎤 **Speaking** - Tech talks and workshops
 - 📚 **Mentoring** - Helping fellow developers grow
 
 </div>
