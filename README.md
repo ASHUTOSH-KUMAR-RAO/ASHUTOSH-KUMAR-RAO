@@ -552,7 +552,7 @@ while (coding) {
 ---
 
 ### 🔥 *Contribution Heat Map*
-<img src="https://ghchart.rshah.org/00D9FF/ashutosh-kumar-rao" alt="Contribution Chart" width="100%" />
+<img src="https://ghchart.rshah.org/FF6B6B/ashutosh-kumar-rao" alt="Contribution Chart" width="100%" />
 
 ### 📅 *This Month's Highlights*
 - 🚀 *15 commits* across 8 repositories
