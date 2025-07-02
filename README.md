@@ -229,27 +229,27 @@ Other        ▓░░░░░░░░░░░░░░░░░░░░    
   
   <!-- GitHub Stats Cards -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-kumar-rao&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-kumar-rao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-kumar-rao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="49%" />
   
 </div>
 
 <div align="center">
   
   <!-- Languages and Trophy -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-kumar-rao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Top Languages" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-kumar-rao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF" alt="Top Languages" width="42%" />
   
 </div>
 
 <div align="center">
   
-  <!-- GitHub Profile Trophy -->
+  <!-- Fixed GitHub Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=ashutosh-kumar-rao&theme=onestar&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
   
 </div>
 
 <div align="center">
   
-  <!-- Activity Graph -->
+  <!-- Updated Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-kumar-rao&custom_title=Ashutosh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
   
 </div>
@@ -533,36 +533,26 @@ const developerMindset = {
 - **📐 Design Patterns:** SOLID principles, DRY, KISS
 - **🔄 Agile Methodology:** Scrum, continuous integration  
 - **🧪 Testing First:** Unit tests, integration tests, E2E
-- **📊 Performance:** Core Web Vitals optimization
-
-### 🌱 **Growth Mindset**
-```bash
+- **📊 Performance:** Core Web Vitals,
+</td>
+### 🌱 *Growth Mindset*
+bash
 while (coding) {
   learn();
   build();
   share();
   improve();
 }
-```
 
-### 📅 **Current Focus Areas**
-- 🚀 **15 commits** across 8 repositories
-- 🌟 **3 new features** shipped to production  
-- 🐛 **12 issues** resolved and closed
-- 📝 **2 technical articles** published
-- 🤝 **5 pull requests** merged in open source projects
 
 </td>
 </tr>
 </table>
-
----
-
 ## 🎯 Call to Action
 
 <div align="center">
 
-### 🤝 **Ready to Build Something Amazing Together?**
+### 🤝 *Ready to Build Something Amazing Together?*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+turn+your+ideas+into+reality!;Collaboration+makes+everything+better;Your+next+project+starts+here;Ready+when+you+are!" alt="Call to Action" />
 
@@ -589,7 +579,7 @@ while (coding) {
 <!-- Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
-### 🌟 **Thanks for visiting my profile!** 🌟
+### 🌟 *Thanks for visiting my profile!* 🌟
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=⭐+From+Ashutosh+Kumar+Rao+with+💻+and+☕;Let's+connect+and+build+together!;Always+learning%2C+always+growing...;Code+%7C+Create+%7C+Inspire+%7C+Repeat" alt="Footer Typing SVG" />
 
