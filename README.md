@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://github.com/ASHUTOSH-KUMAR-RAO">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B+glad+you+stopped+by;Whatever+brought+you+here%2C+welcome;Hope+your+day%2Fbuild+is+going+well;Fellow+dev%3F+let%27s+ship+something+together;Recruiter%3F+scroll+down%2C+I+promise+it%27s+worth+it" alt="Typing SVG" />
+</a>
+
 ```typescript
 const ashutosh = await Agent.initialize({
   name: "Ashutosh Kumar Rao",
@@ -29,6 +33,34 @@ export const about = {
     "DSA + system design, daily, no excuses"
   ]
 };
+```
+
+<br>
+
+## `cat package.json`
+
+```json
+{
+  "name": "ashutosh-kumar-rao",
+  "version": "7.0.0-sem",
+  "description": "full-stack + genai builder, still compiling",
+  "license": "Open-to-Work",
+  "location": "Lucknow, India",
+  "engines": {
+    "coffee": ">=2 cups/day",
+    "sleep": "6.5h (college days)"
+  },
+  "scripts": {
+    "learn": "read source before docs",
+    "ship": "smallest PR first, momentum after",
+    "dsa": "20-25 min self-attempt rule, no shortcuts"
+  },
+  "dependencies": {
+    "nextjs": "^15.0.0",
+    "typescript": "^5.0.0",
+    "genai": "daily"
+  }
+}
 ```
 
 <br>
@@ -90,6 +122,24 @@ def what_i_actually_use_daily():
 
 <br>
 
+## `$ npm test -- soft-skills.spec.ts`
+
+```
+ PASS  ./soft-skills.spec.ts
+
+  ✓ communicates clearly under deadline pressure       (12ms)
+  ✓ debugs unfamiliar codebases without panicking       (8ms)
+  ✓ ships instead of overthinking                       (3ms)
+  ✓ says "I don't know yet" instead of guessing          (5ms)
+  ✓ follows up on stale PRs without being annoying       (7ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       5 passed, 5 total
+Time:        0.035s
+```
+
+<br>
+
 ## `$ git log --author="ashutosh" --oneline --stat`
 
 ```diff
@@ -104,6 +154,26 @@ def what_i_actually_use_daily():
 
 <br>
 
+## `CHANGELOG.md`
+
+```
+## v2026.2.0 — current
+- Contributing across run-llama, trycua, aden-hive
+- Shipped sendKit: unified messaging core (CLI + MCP + Anthropic Skill)
+- Taught forge to plan multi-step coding tasks, not just single edits
+- Prepping for GSSoC 2027
+
+## v2026.1.0
+- Restarted the daily grind: DSA + open source + GenAI, every single day
+- Built Chat-Cue, Ai-Code-Builder
+
+## v2025.1.0
+- First PR merged. Confidence: +100
+- Started reading source code instead of just docs
+```
+
+<br>
+
 ## `while (true) { learn(); build(); ship(); }`
 
 ```yaml
@@ -112,10 +182,6 @@ right_now:
   - grinding: DSA — 20-25 min self-attempt rule before looking anything up
   - preparing_for: GSSoC 2027
   - open_to: pairing on good-first-issues, if you're stuck too
-
-recently_shipped:
-  - sendKit: unified messaging core across CLI, MCP, and Anthropic Skill
-  - forge: taught it to plan multi-step coding tasks, not just single edits
 ```
 
 <br>
@@ -157,6 +223,31 @@ return {
 </td>
 </tr>
 </table>
+
+<br>
+
+## `$ curl stats.ashutosh.dev`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ASHUTOSH-KUMAR-RAO&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHUTOSH-KUMAR-RAO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+
+</div>
+
+<br>
+
+## `$ ./contribution-snake.sh`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ASHUTOSH-KUMAR-RAO/ASHUTOSH-KUMAR-RAO/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+
+</div>
+
+> ⚙️ Snake setup note (one-time): this needs a small GitHub Action added to
+> this repo — see `snake-workflow.yml` provided separately. Takes 2 minutes,
+> then it auto-updates daily.
 
 <br>
 
