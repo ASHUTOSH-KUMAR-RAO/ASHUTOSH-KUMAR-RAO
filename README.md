@@ -154,6 +154,30 @@ Time:        0.035s
 
 <br>
 
+## `$ uptime --since=2025`
+
+```
+active_days      340+ / 365
+longest_streak   47 days
+current_status   still running, still shipping
+last_restart     never — just kept going
+```
+
+<br>
+
+## `roadmap.md`
+
+```
+- [x] Ship sendKit — unified messaging core (CLI + MCP + Anthropic Skill)
+- [x] Contribute to run-llama, trycua, aden-hive
+- [x] Teach forge to plan multi-step coding tasks
+- [ ] Merge a PR into a 10k+ star repo
+- [ ] Prep + participate in GSSoC 2027
+- [ ] Land an SWE / AI Engineer role
+```
+
+<br>
+
 ## `CHANGELOG.md`
 
 ```
@@ -170,18 +194,6 @@ Time:        0.035s
 ## v2025.1.0
 - First PR merged. Confidence: +100
 - Started reading source code instead of just docs
-```
-
-<br>
-
-## `while (true) { learn(); build(); ship(); }`
-
-```yaml
-right_now:
-  - reading: run-llama and trycua source, one module at a time
-  - grinding: DSA — 20-25 min self-attempt rule before looking anything up
-  - preparing_for: GSSoC 2027
-  - open_to: pairing on good-first-issues, if you're stuck too
 ```
 
 <br>
@@ -226,17 +238,6 @@ return {
 
 <br>
 
-## `$ curl stats.ashutosh.dev`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ASHUTOSH-KUMAR-RAO&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHUTOSH-KUMAR-RAO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
-
-</div>
-
-<br>
-
 ## `$ ./contribution-snake.sh`
 
 <div align="center">
@@ -245,9 +246,18 @@ return {
 
 </div>
 
-> ⚙️ Snake setup note (one-time): this needs a small GitHub Action added to
-> this repo — see `snake-workflow.yml` provided separately. Takes 2 minutes,
-> then it auto-updates daily.
+<br>
+
+## `$ ./adapt --new-stack`
+
+```
+> detecting unfamiliar tech...
+> no downtime required
+> hot-reloading skills in real time
+> zero compile errors on day one
+
+status: adapts faster than most frameworks deprecate
+```
 
 <br>
 
