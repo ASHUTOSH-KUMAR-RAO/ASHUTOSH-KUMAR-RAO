@@ -122,6 +122,37 @@ def what_i_actually_use_daily():
 
 <br>
 
+## `$ cat bug-reports.log`
+
+```diff
++ trycua/cua (300+ ⭐, Rust) — computer-use agent infra
+  
+  #2342  browser_pointer skips the declared-action ("exact-or-refused")
+         gate that browser_click/type/upload enforce
+         → traced through 3 files, root-caused to a struct silently
+           dropping semantic-capability data
+         → validated + fixed by maintainers same day
+         → github.com/trycua/cua/issues/2342
+
+  #2368  session capture-scope enforcement silently bypassed for
+         mouse_button_down / mouse_button_up (missing from an
+         internal allowlist → falls through to unscoped, unchecked)
+         → github.com/trycua/cua/issues/2368
+
++ run-llama/liteparse — document parsing (Rust + Python bindings)
+
+  #363   get_config() silently omits 8 newer constructor options
+         → found by diffing the dataclass against the actual
+           constructor signature
+         → github.com/run-llama/liteparse/issues/363
+
+  method: clone → read commit history → diff new features against
+  established patterns in the same codebase → trace the full call
+  graph before filing → verify nobody already reported it
+```
+
+<br>
+
 ## `$ npm test -- soft-skills.spec.ts`
 
 ```
@@ -132,9 +163,10 @@ def what_i_actually_use_daily():
   ✓ ships instead of overthinking                       (3ms)
   ✓ says "I don't know yet" instead of guessing          (5ms)
   ✓ follows up on stale PRs without being annoying       (7ms)
+  ✓ reads 6000-line Rust modules for fun                 (9ms)
 
 Test Suites: 1 passed, 1 total
-Tests:       5 passed, 5 total
+Tests:       6 passed, 6 total
 Time:        0.035s
 ```
 
@@ -147,6 +179,7 @@ Time:        0.035s
 + contributed to    trycua/cua       (Computer-Use Agent infrastructure)
 + contributed to    aden-hive/hive   (outcome-driven agent framework)
 
+  2 bugs found in trycua/cua, 1 validated same-day by maintainers
   900+ contributions total
   🦈 Pull Shark x3
   status: still writing PRs while you read this
@@ -171,6 +204,7 @@ last_restart     never — just kept going
 - [x] Ship sendKit — unified messaging core (CLI + MCP + Anthropic Skill)
 - [x] Contribute to run-llama, trycua, aden-hive
 - [x] Teach forge to plan multi-step coding tasks
+- [x] Report + get a maintainer-validated bug into a 300+ star Rust repo
 - [ ] Merge a PR into a 10k+ star repo
 - [ ] Prep + participate in GSSoC 2027
 - [ ] Land an SWE / AI Engineer role
@@ -183,6 +217,7 @@ last_restart     never — just kept going
 ```
 ## v2026.2.0 — current
 - Contributing across run-llama, trycua, aden-hive
+- Found + reported 2 bugs in trycua/cua (1 fixed same-day by maintainers)
 - Shipped sendKit: unified messaging core (CLI + MCP + Anthropic Skill)
 - Taught forge to plan multi-step coding tasks, not just single edits
 - Prepping for GSSoC 2027
@@ -208,6 +243,8 @@ return {
   looking_for: "SWE / AI Engineer roles",
   proof_not_claims: [
     "merged PRs in active, real orgs",
+    "maintainer-validated bug in a 300+
+     star Rust codebase",
     "5+ AI-native products shipped solo",
     "comfortable end-to-end: FE, BE, AI layer"
   ],
