@@ -3,12 +3,11 @@ Hey there! 👋
 I'm **Ashutosh Kumar Rao**, a Next.js Full-Stack Dev and AI Developer, currently in my final year (7th sem) of engineering.
 
 I build production-grade web apps with Next.js, and I go deep into the AI side too — building AI Agents, RAG pipelines, and applying Deep Learning & ML fundamentals.
-
 If an idea pops into my head, chances are I'll build it and ship it.
 
-My main tech stack is Next.js, React 19, TypeScript, and Express, with C++ and Python as my core programming languages. On the AI side, I work with LangChain, RAG, and n8n for automation.
+My main tech stack is Next.js, React 19, TypeScript, and NestJS, with C++ and Python as my core programming languages. On the AI side, I work with LangChain, RAG, and n8n for automation.
 
-Right now I'm working on [RideFlow](https://github.com/ASHUTOSH-KUMAR-RAO) — a distributed ride-hailing & dynamic bidding platform built to explore real-world system design, SOLID architecture, and distributed systems fundamentals like event-driven microservices, race condition handling, and resilience patterns.
+Right now I'm working as a **Platform & Product Systems Engineer** at an early-stage startup — building and architecting the backend infrastructure from scratch. This includes API design, database architecture, auth systems, cloud infra, and reliability — with a Cloudflare-first approach and a modular monolith architecture built to scale.
 
 Fun Facts:
 - I love reading and exploring tech-related stuff
