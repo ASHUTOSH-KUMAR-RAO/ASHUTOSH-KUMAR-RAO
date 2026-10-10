@@ -1,17 +1,19 @@
-Hey there! 👋
+<div align="center">
 
-I'm **Ashutosh Kumar Rao**, a Next.js Full-Stack Dev and AI Developer, currently in my final year (7th sem) of engineering.
+<img src="./neofetch.svg" alt="Ashutosh Kumar Rao - neofetch" width="100%"/>
 
-I build production-grade web apps with Next.js, and I go deep into the AI side too — building AI Agents, RAG pipelines, and applying Deep Learning & ML fundamentals.
-If an idea pops into my head, chances are I'll build it and ship it.
+</div>
 
-My main tech stack is Next.js, React 19, TypeScript, and NestJS, with C++ and Python as my core programming languages. On the AI side, I work with LangChain, RAG, and n8n for automation.
+### About Me
+Hey there! I'm **Ashutosh Kumar Rao**, a Next.js Full-Stack Dev and AI Developer in my final year of engineering. If an idea pops into my head, chances are I'll build it and ship it.
 
-Right now I'm working as a **Platform & Product Systems Engineer** at an early-stage startup — building and architecting the backend infrastructure from scratch. This includes API design, database architecture, auth systems, cloud infra, and reliability — with a Cloudflare-first approach and a modular monolith architecture built to scale.
+Right now I'm a **Platform & Product Systems Engineer** at an early-stage startup, building the backend from scratch: API design, database architecture, auth, cloud infra and reliability, on AWS with a modular monolith architecture built to scale.
 
-Fun Facts:
-- I love reading and exploring tech-related stuff
-- I enjoy both chai and coffee
-- I love building things and bringing ideas to life
+<div align="center">
 
-If you want to connect, you can reach me on [LinkedIn](https://www.linkedin.com/in/ashutosh-kumar-rao/), [X](https://x.com/RaoAshutosh19), peek into [my world](https://ashutosh-19.netlify.app/), or drop an email at aashutoshrao68@gmail.com.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-rao/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RaoAshutosh19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7ee787?style=for-the-badge&logo=netlify&logoColor=black)](https://ashutosh-19.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashutoshrao68@gmail.com)
+
+</div>
